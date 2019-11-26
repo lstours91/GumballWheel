@@ -14,5 +14,3 @@ in front of a sensor.
 - The ferris wheel must have a diameter lower than or equal to 300mm and a thickness of 3.18mm
 - 
 
-
-################ fkorpe
