@@ -18,9 +18,9 @@ in front of a sensor.
 
 ## Ideas we had
 
-- A windmill that drops in gummy bears in the hatch
+- A windmill that drops in gumballs in the hatch
 - A shape more like a ferris wheel that drops gumballs
-  - We picked the second one because gumballs are easier to measure and more consistant with their shape and size
+- We picked the second one because gumballs are easier to measure and more consistant with their shape and size
 
 
 ## List of materials
@@ -28,3 +28,13 @@ in front of a sensor.
 - Two servos
 - 3D printing material
 - 
+
+
+## Where we are
+
+
+
+
+
+## What we have to finish
+
